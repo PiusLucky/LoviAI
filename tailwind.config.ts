@@ -18,6 +18,10 @@ const config = {
       },
     },
     extend: {
+      colors: {
+        primary: "#292824",
+        secondary: "#5263FF"
+      },
       keyframes: {
         "accordion-down": {
           from: { height: "0" },
@@ -32,6 +36,14 @@ const config = {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
       },
+      fontSize: {
+        header: "3.125rem",
+        headerMobile: "1.5rem"
+      },
+      backgroundImage: {
+        "bubble": "url(/images/bg_blob.png)",
+        "banner": "url(/images/banner.png)",
+      }
     },
   },
   plugins: [require("tailwindcss-animate")],
