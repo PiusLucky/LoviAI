@@ -33,8 +33,8 @@ npm install && npm run dev
 
 
 ## Credits/Shout out
-All thanks to Al Razi Siam from the figma community
-https://www.figma.com/@alrazisiam
+All thanks to Pierrick1 from the figma community
+https://www.figma.com/@pierrick1
 
 
 ## Author
