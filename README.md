@@ -4,7 +4,7 @@ LoviAI website built with Next14, Shadcn, Framer motion and Tailwind.
 ![lovi-thumbnail](https://github.com/user-attachments/assets/9145b174-f050-43dd-9324-33f70bd024da)
 
 # Youtube
-
+https://youtu.be/noRLgTm2zgQ
 
 # ☁️ Deployed link
 https://lovi-ai.vercel.app/
