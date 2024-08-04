@@ -33,7 +33,7 @@ function FaqSection() {
       <div className="md:w-[60%]">
         <Accordion type="single" collapsible className="w-full">
           {data.map((item, index) => (
-            <AccordionItem value={`item-${index}`}>
+            <AccordionItem value={`item-${index}`} key={index}>
               <AccordionTrigger>{item.question} </AccordionTrigger>
               <AccordionContent>{item.answer}</AccordionContent>
             </AccordionItem>
